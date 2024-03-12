@@ -1,7 +1,6 @@
-Certainly! Here's the enhanced README with stylish formatting and Tailwind CSS classes:
+# ![Project Logo](https://github.com/maaz-official/Full-stack-Blog/assets/161757387/b81e742d-a1dd-409c-b5d4-98f2ad6a31d2)
 
 ```markdown
-# ![Project Logo](https://github.com/maaz-official/Full-stack-Blog/assets/161757387/b81e742d-a1dd-409c-b5d4-98f2ad6a31d2)
 
 ## MERN STACK BLOG
 
